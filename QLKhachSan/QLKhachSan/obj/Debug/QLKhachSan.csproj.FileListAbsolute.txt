@@ -1,0 +1,26 @@
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csprojResolveAssemblyReference.cache
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.FormKhachHang.resources
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.FormMain.resources
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.Cache
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+c:\users\heoco\documents\visual studio 2015\Projects\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\mscorlib.dll
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\normidna.nlp
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\normnfc.nlp
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\normnfd.nlp
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\normnfkc.nlp
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\bin\Debug\normnfkd.nlp
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.FormKhachHang.resources
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.FormMain.resources
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\WIN\Desktop\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.Cache
